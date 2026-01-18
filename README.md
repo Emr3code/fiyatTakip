@@ -2,7 +2,7 @@
 
 Bu proje, belirlenen e-ticaret ürünlerini (Trendyol, Hepsiburada, Amazon vb.) 7/24 otomatik olarak izleyen ve fiyat değişikliği/indirim durumunda kullanıcıya **Telegram** üzerinden anlık bildirim gönderen bir Python otomasyonudur.
 
-## Proje Görseli
+## 🖼️ Proje Görseli
 <img width="1904" height="1026" alt="image" src="https://github.com/user-attachments/assets/c774b040-3e57-4eb2-ad47-0889ab156b46" />
 <img width="486" height="241" alt="image" src="https://github.com/user-attachments/assets/4651feae-ad4a-4c06-912d-3068f34d50a0" />
 
