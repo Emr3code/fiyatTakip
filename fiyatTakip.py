@@ -4,7 +4,8 @@ from selenium.webdriver.common.by import By
 import requests
 
 def telegrama_at(mesaj):
-    chat_id = "6266857773"
+    # Buraya kendi chat id'ni tekrar yapıştır:
+    chat_id = "xxx"
     # Buraya kendi tokenini tekrar yapıştır:
     bot_token = "xxx" 
     
@@ -42,4 +43,5 @@ def main():
     input("Kapatmak için Enter'a bas...")
 
 if __name__ == "__main__":
+
     main()
